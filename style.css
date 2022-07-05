@@ -1,0 +1,116 @@
+.body{
+    font-family: 'Raleway', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+}
+
+.section-one{
+    height: 630px;
+}
+
+.half-section{
+    width: 40%;
+    float: left;
+    margin: 4%;
+    padding: 1%;
+}
+
+h2{
+    letter-spacing: 1px;
+}
+
+.text{
+    margin: 35px 0px;
+    letter-spacing: 1px;
+}
+
+.orange{
+    color: orange;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(#A3E4D7 ,#1ABC9C ) ;
+    padding: 10px 20px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 700px;
+}
+
+.section-two{
+    background-image: url("image/7.png");
+    background-repeat: no-repeat;
+    height: 550px;
+    overflow: hidden;
+}
+
+.half-section-two{
+    width: 40%;
+    float: left;
+    margin: 0% 4%;
+    padding: 1%;
+}
+
+.about-me{
+    margin-top: 60px;
+}
+
+/* section three */
+/* .section-three{
+    margin: 4%;
+    
+} */
+
+.section-three{
+    height: 800px;
+}
+.recipie{
+    text-align: center;
+    margin: 90px 400px 60px;
+}
+.box-row{
+    float: left;
+}
+.box{
+    width: 40%;
+    height: 500px;
+    border-radius: 20px;
+    float: left;
+    margin: 0% 4%;
+    padding: 1%;
+    box-shadow: 20px 20px 40px gray;
+}
+
+.box-image-one{
+    background-image: url("image/ProjectCover7.jpg");
+    background-repeat: no-repeat;
+    height: 350px;
+    border-radius: 6px;
+}
+
+.box-image-two{
+    background-image: url("image/ProjectCover8.jpg");
+    background-repeat: no-repeat;
+    height: 350px;
+    border-radius: 6px;
+}
+
+/* Number section */
+.number{
+    height: 200px;
+    width: 92%;
+    margin: 10px 4% 100px;
+    box-shadow: 20px 20px 40px gray;
+    border-radius: 5px;
+}
+
+/* footer */
+.footer{
+    background-image: linear-gradient(black,#424949);
+    color: white;
+    height: 200px;
+    text-align: center;
+}
+
+.footer-title{
+    padding-top: 40px;
+}
