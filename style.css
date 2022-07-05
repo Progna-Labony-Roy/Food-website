@@ -71,11 +71,11 @@ h2{
     float: left;
 }
 .box{
-    width: 40%;
+    width: 35%;
     height: 500px;
     border-radius: 20px;
     float: left;
-    margin: 0% 4%;
+    margin: 0% 6%;
     padding: 1%;
     box-shadow: 20px 20px 40px gray;
 }
@@ -97,7 +97,7 @@ h2{
 /* Number section */
 .number{
     height: 200px;
-    width: 92%;
+    width: 88%;
     margin: 10px 4% 100px;
     box-shadow: 20px 20px 40px gray;
     border-radius: 5px;
